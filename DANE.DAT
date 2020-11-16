@@ -1,0 +1,9 @@
+008970.000      frequency  [Hz]
+000080.000      ionosphere height [km]
+000904.000      TX-RX distance [km]
+0999            N:  number of summation terms(Legendre Function calc.)
+000001.000      antena current [Amp]
+000200.000      length of vertical antenna [meters]
+
+
+

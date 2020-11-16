@@ -1,0 +1,11 @@
+000100.000      minimum frequency  [Hz]
+010000.000      maximum frequency  [Hz]
+000010.000      frequency  step [Hz]
+000080.000      ionosphere height [km]
+000904.000      minimum TX-RX distance [km]
+000904.000      maximum TX-RX distance [km]
+000001.000      TX-RX distance [km]
+0999            N:  number of summation terms(Legendre Function calc.)
+000001.000      antena current [Amp]
+000200.000      length of vertical antenna [meters]
+
